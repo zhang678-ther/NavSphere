@@ -110,7 +110,16 @@
           "enabled": true
         }
       ],
-      "subCategories": [],
+      "subCategories": [
+        {
+          "id": "ed69953f-9497-4a0e-a319-d1438b4cff54",
+          "title": "在线工具",
+          "icon": "Settings",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ],
       "description": "",
       "enabled": true
     },
