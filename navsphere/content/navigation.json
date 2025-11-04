@@ -1,15 +1,6 @@
 {
   "navigationItems": [
     {
-      "id": "1762269739734",
-      "title": "常用",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
-    },
-    {
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
